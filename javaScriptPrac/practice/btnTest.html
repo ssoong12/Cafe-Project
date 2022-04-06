@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>버튼테스트</title>
+    <script src="jquery-3.6.0.min.js"></script>
+
+    <script>
+        function PageOnLoad() {
+            // 카운트 변수
+            var count = 0;
+
+            // 버튼 클릭 시 
+            $('#count_btn').bind('click', function fncSearch() {
+                // 변수 증가
+                count++;
+                // 조건문
+                if(count<5) {
+                    alert("카운트 : "+count);
+                }else {
+                    alert("제한수치까지 올려봤습니다!");
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <a href="#" id="count_btn"><button type="button" class="btn">버튼테스트</button></a>
+    </div>
+</body>
+</html>

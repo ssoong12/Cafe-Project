@@ -1,4 +1,4 @@
-# Portpolio-jatavacs-java-cafe-
+# Cafe-Project
 Java Spring MVC 패턴으로 개발한 카페 키오스크 어플리케이션입니다.
 # 메인 콘텐츠
 ## Main index

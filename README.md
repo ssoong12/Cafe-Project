@@ -2,7 +2,7 @@
 Java Spring MVC 패턴으로 개발한 카페 키오스크 어플리케이션입니다.
 # 메인 콘텐츠
 ## Main index
-![cafe_main_index_order5](https://github.com/ssoong12/Cafe-Project/assets/89440755/d6048e27-cbc3-474d-8435-641fe63c447d)
+![image](https://github.com/ssoong12/Cafe-Project/assets/89440755/80b4f162-7fdf-4fb1-99bf-3d14c27d54d8)
 ## 결제 화면
 ![cafe_main_payPrice](https://github.com/ssoong12/Cafe-Project/assets/89440755/08fe781d-b12a-481b-a06a-55027e1bc91b)
 ## 회원 가입
